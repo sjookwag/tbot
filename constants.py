@@ -26,7 +26,7 @@ class ID(Enum):
 
 path_to_file = 'tbot.db'
 
-__TOKEN = '5893898822:AAFFEcx2yPUk6BqPVzq_MXVoANswazBvtsg'
+__TOKEN = '***********************************'
 __chat_id = ['-1001593352488', '-1001969539888']
 intervals = {'OHLCV':15,'CCI':15,'MA':15,'MACDRSI':15,'SUPRES':15,'FIBO':15,'MFI':15,'THREE':15,'PATTERNS':15}
 pattern_hnames = {
